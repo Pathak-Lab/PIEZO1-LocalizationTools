@@ -1,3 +1,3 @@
-# flika_plugin_template
+# flika_plugin
 
-fft chunk analysis
+Tool for displaying localization and tracking data
