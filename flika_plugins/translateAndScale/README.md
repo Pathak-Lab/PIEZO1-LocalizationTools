@@ -1,3 +1,3 @@
-# flika_plugin_template
+# flika_plugin
 
-For micro-pattern data
+Tool for aligning micro-pattern data
