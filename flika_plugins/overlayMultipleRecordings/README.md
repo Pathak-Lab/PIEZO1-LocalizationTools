@@ -1,3 +1,3 @@
 # flika_plugin
 
-Alignment tool for micro-pattern data
+Tool for displaying micro-pattern data from multiple recordings
