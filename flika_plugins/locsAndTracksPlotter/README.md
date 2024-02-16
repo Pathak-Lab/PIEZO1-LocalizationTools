@@ -1,3 +1,3 @@
-# flika_plugin_template
+# flika_plugin
 
-fft chunk analysis
+Plotting tool for point and track data
