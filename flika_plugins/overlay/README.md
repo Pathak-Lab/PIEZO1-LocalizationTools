@@ -1,3 +1,3 @@
-# flika_plugin_template
+# flika_plugin
 
-Download this repository into your ~/.Flika/plugins directory and modify to make a plugin for [Flika](https://github.com/flika-org/flika).
+Tool for overlaying TIRF recordings and data
