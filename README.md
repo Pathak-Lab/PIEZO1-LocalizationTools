@@ -67,6 +67,11 @@ The analysis pipeline consists of several steps:
 
 The analysis workflow depends on localization of PIEZO1 puncta using either the flika pynsight plugin (https://github.com/kyleellefsen/pynsight) or other localization software, such as thunderSTORM (https://zitmen.github.io/thunderstorm/), to identify fluorescent 'blobs' in every recording frame. Tracking is carried out using pynsight, and further analysis of point and track data performed on batches of localization files using the scripts. Point and track data can be displayed using the plugins.
 
+Our analysis was run on a PC with the following specifications:
+   - Processor:	Intel(R) Xeon(R) Gold 6134M CPU @ 3.20GHz   3.19 GHz  (2 processors)
+   - Installed RAM:	1.50 TB
+   - System type:	64-bit operating system
+
 See individual directory READMEs for instructions on each step.
 
 ## Documentation
