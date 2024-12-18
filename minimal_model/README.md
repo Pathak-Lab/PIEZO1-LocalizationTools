@@ -140,8 +140,7 @@ Common issues and solutions:
 
 This dataset and analysis pipeline are described in:
 ```
-Bertaccini et al. (2023). PIEZO1-HaloTag hiPSCs: Bridging Molecular, 
-Cellular and Tissue Imaging. bioRxiv 2023.12.22.573117
+Bertaccini et al. (2024). Visualizing PIEZO1 Localization and Activity in hiPSC-Derived Single Cells and Organoids with HaloTag Technology. bioRxiv 2023.12.22.573117
 ```
 
 ## Support
