@@ -35,7 +35,7 @@ A minimal example dataset and analysis workflow for validating the PIEZO1-HaloTa
 
 ### 1. Particle Localization (Pre-processed)
 - Uses ThunderSTORM for super-resolution localization
-- Multi-emitter fitting enabled
+- Single-emitter fitting enabled
 - Results file provided with centroids
 
 ### 2. Trajectory Analysis
