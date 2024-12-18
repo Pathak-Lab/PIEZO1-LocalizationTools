@@ -92,7 +92,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 If you use this code in your research, please cite:
 ```
-Bertaccini et al. (2023). PIEZO1-HaloTag hiPSCs: Bridging Molecular, Cellular and Tissue Imaging. 
+Bertaccini et al. (2024). Visualizing PIEZO1 Localization and Activity in hiPSC-Derived Single Cells and Organoids with HaloTag Technology. 
 bioRxiv 2023.12.22.573117; doi: https://doi.org/10.1101/2023.12.22.573117
 ```
 
