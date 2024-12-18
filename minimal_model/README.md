@@ -15,7 +15,7 @@ A minimal example dataset and analysis workflow for validating the PIEZO1-HaloTa
 - `Endothelial_NonBapta_bin10_crop_RESULTS-FILE.csv`
   - ThunderSTORM particle localization output
   - Contains frame-by-frame puncta locations
-  - Precision ~20nm using multi-emitter fitting
+  - Precision ~20nm using single-emitter fitting
 
 - `Endothelial_NonBapta_bin10_crop_locs-protocol.txt`
   - ThunderSTORM parameters and settings
