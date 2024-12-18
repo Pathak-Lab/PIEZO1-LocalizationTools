@@ -163,7 +163,7 @@ Common issues:
 
 When using this pipeline, please cite:
 ```
-Bertaccini et al. (2023). PIEZO1-HaloTag hiPSCs: Bridging Molecular, 
+Bertaccini et al. (2024). PIEZO1-HaloTag hiPSCs: Bridging Molecular, 
 Cellular and Tissue Imaging. bioRxiv 2023.12.22.573117
 ```
 
