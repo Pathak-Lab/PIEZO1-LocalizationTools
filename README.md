@@ -1,6 +1,6 @@
 # PIEZO1-HaloTag Analysis Pipeline
 
-This repository contains a collection of Python scripts and FLIKA plugins for analyzing PIEZO1 protein dynamics in microscopy data, as described in [Bertaccini et al. 2023](https://doi.org/10.1101/2023.12.22.573117). The tools enable tracking, visualization, and analysis of PIEZO1 protein movement and activity in various cell types. It was created to help the Pathak lab (https://www.pathaklab-uci.com/) analyse TIRF recordings of PIEZO1 using flika (https://flika-org.github.io/).
+This repository contains a collection of Python scripts and FLIKA plugins for analyzing PIEZO1 protein dynamics in microscopy data, as described in [Bertaccini et al. 2024](https://doi.org/10.1101/2023.12.22.573117). The tools enable tracking, visualization, and analysis of PIEZO1 protein movement and activity in various cell types. It was created to help the Pathak lab (https://www.pathaklab-uci.com/) analyse TIRF recordings of PIEZO1 using flika (https://flika-org.github.io/).
 
 ## Overview
 
@@ -67,6 +67,11 @@ The analysis pipeline consists of several steps:
 
 The analysis workflow depends on localization of PIEZO1 puncta using either the flika pynsight plugin (https://github.com/kyleellefsen/pynsight) or other localization software, such as thunderSTORM (https://zitmen.github.io/thunderstorm/), to identify fluorescent 'blobs' in every recording frame. Tracking is carried out using pynsight, and further analysis of point and track data performed on batches of localization files using the scripts. Point and track data can be displayed using the plugins.
 
+Our analysis was run on a PC with the following specifications:
+   - Processor:	Intel(R) Xeon(R) Gold 6134M CPU @ 3.20GHz   3.19 GHz  (2 processors)
+   - Installed RAM:	1.50 TB
+   - System type:	64-bit operating system
+
 See individual directory READMEs for instructions on each step.
 
 ## Documentation
@@ -87,7 +92,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 If you use this code in your research, please cite:
 ```
-Bertaccini et al. (2023). PIEZO1-HaloTag hiPSCs: Bridging Molecular, Cellular and Tissue Imaging. 
+Bertaccini et al. (2024). Visualizing PIEZO1 Localization and Activity in hiPSC-Derived Single Cells and Organoids with HaloTag Technology. 
 bioRxiv 2023.12.22.573117; doi: https://doi.org/10.1101/2023.12.22.573117
 ```
 

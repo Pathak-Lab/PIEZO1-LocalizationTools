@@ -15,7 +15,7 @@ A minimal example dataset and analysis workflow for validating the PIEZO1-HaloTa
 - `Endothelial_NonBapta_bin10_crop_RESULTS-FILE.csv`
   - ThunderSTORM particle localization output
   - Contains frame-by-frame puncta locations
-  - Precision ~20nm using multi-emitter fitting
+  - Precision ~20nm using single-emitter fitting
 
 - `Endothelial_NonBapta_bin10_crop_locs-protocol.txt`
   - ThunderSTORM parameters and settings
@@ -35,7 +35,7 @@ A minimal example dataset and analysis workflow for validating the PIEZO1-HaloTa
 
 ### 1. Particle Localization (Pre-processed)
 - Uses ThunderSTORM for super-resolution localization
-- Multi-emitter fitting enabled
+- Single-emitter fitting enabled
 - Results file provided with centroids
 
 ### 2. Trajectory Analysis
@@ -140,8 +140,7 @@ Common issues and solutions:
 
 This dataset and analysis pipeline are described in:
 ```
-Bertaccini et al. (2023). PIEZO1-HaloTag hiPSCs: Bridging Molecular, 
-Cellular and Tissue Imaging. bioRxiv 2023.12.22.573117
+Bertaccini et al. (2024). Visualizing PIEZO1 Localization and Activity in hiPSC-Derived Single Cells and Organoids with HaloTag Technology. bioRxiv 2023.12.22.573117
 ```
 
 ## Support
